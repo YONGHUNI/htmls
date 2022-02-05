@@ -9,4 +9,5 @@ How to Assess the Hosted html Files
 
 * Some Examples:
   - https://yonghuni.github.io/htmls/Ex8.html
-  - https://yonghuni.github.io/htmls/Gini
+  - https://yonghuni.github.io/htmls/Gini-09.html
+  - https://yonghuni.github.io/htmls/서울시데이터셋.html
