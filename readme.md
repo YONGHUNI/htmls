@@ -1,7 +1,7 @@
 The Cesspool of Knitted .Rmds I Created
 ========================================
 
-How to Assess the Hosted html Files
+How to Access the Hosted html Files
 --------
 
 * Just type URL like below in your address bar
