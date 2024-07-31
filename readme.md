@@ -4,7 +4,7 @@ The Cesspool of Knitted Markdown Documents I Created
 How to Access the Hosted HTML Files
 --------
 
-* Just type the URL below in your address bar
+* Type the URL below in your address bar
   - https://yonghuni.github.io/htmls/FiLeNaMe.html
 
 * Some Examples:
